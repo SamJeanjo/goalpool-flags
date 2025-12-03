@@ -2,7 +2,7 @@
   "name": "goalpool-flags",
   "compatibility_date": "2025-12-03",
   "assets": {
-    "directory": C:\Users\wesje\flags_256
+    "directory": "./flags_256"
   }
-
 }
+
